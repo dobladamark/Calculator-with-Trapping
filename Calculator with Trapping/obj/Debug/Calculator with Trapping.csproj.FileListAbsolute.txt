@@ -8,3 +8,13 @@ C:\My Files\Programming\CSharp\School Projects\Calculator with Trapping\Calculat
 C:\My Files\Programming\CSharp\School Projects\Calculator with Trapping\Calculator with Trapping\obj\Debug\Calculator with Trapping.csproj.CoreCompileInputs.cache
 C:\My Files\Programming\CSharp\School Projects\Calculator with Trapping\Calculator with Trapping\obj\Debug\Calculator with Trapping.exe
 C:\My Files\Programming\CSharp\School Projects\Calculator with Trapping\Calculator with Trapping\obj\Debug\Calculator with Trapping.pdb
+C:\Users\Nyabi\Desktop\Calculator-with-Trapping\Calculator with Trapping\bin\Debug\Calculator with Trapping.exe.config
+C:\Users\Nyabi\Desktop\Calculator-with-Trapping\Calculator with Trapping\bin\Debug\Calculator with Trapping.exe
+C:\Users\Nyabi\Desktop\Calculator-with-Trapping\Calculator with Trapping\bin\Debug\Calculator with Trapping.pdb
+C:\Users\Nyabi\Desktop\Calculator-with-Trapping\Calculator with Trapping\obj\Debug\Calculator with Trapping.csproj.AssemblyReference.cache
+C:\Users\Nyabi\Desktop\Calculator-with-Trapping\Calculator with Trapping\obj\Debug\Calculator_with_Trapping.Form1.resources
+C:\Users\Nyabi\Desktop\Calculator-with-Trapping\Calculator with Trapping\obj\Debug\Calculator_with_Trapping.Properties.Resources.resources
+C:\Users\Nyabi\Desktop\Calculator-with-Trapping\Calculator with Trapping\obj\Debug\Calculator with Trapping.csproj.GenerateResource.cache
+C:\Users\Nyabi\Desktop\Calculator-with-Trapping\Calculator with Trapping\obj\Debug\Calculator with Trapping.csproj.CoreCompileInputs.cache
+C:\Users\Nyabi\Desktop\Calculator-with-Trapping\Calculator with Trapping\obj\Debug\Calculator with Trapping.exe
+C:\Users\Nyabi\Desktop\Calculator-with-Trapping\Calculator with Trapping\obj\Debug\Calculator with Trapping.pdb

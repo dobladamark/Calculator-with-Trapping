@@ -15,6 +15,13 @@ namespace Calculator_with_Trapping
         public Form1()
         {
             InitializeComponent();
+            btnAdd.Cursor = Cursors.Hand;
+            btnSub.Cursor = Cursors.Hand;
+            btnMul.Cursor = Cursors.Hand;
+            btnDiv.Cursor = Cursors.Hand;
+            btnGen.Cursor = Cursors.Hand;
+            btnReset.Cursor = Cursors.Hand;
+            btnClose.Cursor = Cursors.Hand;
         }
 
         private void txtName_TextChanged(object sender, EventArgs e)
@@ -44,6 +51,7 @@ namespace Calculator_with_Trapping
             txtResult.Visible = false;
             btnReset.Visible = false;
             btnClose.Visible = false;
+            
 
 
         }
@@ -108,6 +116,7 @@ namespace Calculator_with_Trapping
 
          
         }
+
         double num1, num2, result;
 
         private void btnMul_Click(object sender, EventArgs e)
@@ -205,6 +214,8 @@ namespace Calculator_with_Trapping
             lblPro.Visible = true;
             btnReset.Visible = true;
             btnClose.Visible = true;
+
+            
         }
     }
 }
